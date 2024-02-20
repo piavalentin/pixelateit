@@ -1,0 +1,8 @@
+{
+  "name": "pixelateit",
+  "version": "1.0.0",
+  "description": "create a pixel for everything!",
+  "main": "index.js",
+  "author": "Pia Valentin",
+  "license": "MIT"
+}
